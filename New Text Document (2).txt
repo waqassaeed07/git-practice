@@ -1,0 +1,6 @@
+git init
+git show
+git add-a
+git show
+git commit -m"initial commit"
+git config--global  user.name"
